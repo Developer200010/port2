@@ -135,6 +135,18 @@ const Hero = () => {
               </a>
             </div>
           </div>
+
+          
+          <div className="portfolio-box">
+            <img src="" alt="" />
+            <div className="portfolio-layer">
+              <h4>FreeApiProject</h4>
+              <p>Tools : React+vite, shadcn ui, uiverse, and third-party api form FreeApi</p>
+              <a href="https://freeapi150.netlify.app/">
+                <i className="fa-regular fa-share-from-square"></i>
+              </a>
+            </div>
+          </div>
         </div>
       </section>
       <section className="contact" id="contact">
